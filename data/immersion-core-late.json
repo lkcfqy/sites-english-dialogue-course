@@ -1,0 +1,1130 @@
+[
+  {
+    "week": 23,
+    "day": 1,
+    "question": "他为什么把学习移到早餐前，又不完全喜欢早起？",
+    "answer": "通勤时间提前促使他把费力任务移到早上；他喜欢掌控感，但仍怀念自然醒。",
+    "rows": [
+      [
+        [
+          "A",
+          "I usually study before breakfast. The apartment is quiet then, and finishing one focused task makes the rest of my morning feel manageable.",
+          "我通常早餐前学习。公寓那时安静，专心做完一件事也让上午更从容。"
+        ],
+        [
+          "B",
+          "Has that always suited you? I remember you working late into the evening.",
+          "你一直适合这样吗？我记得你以前工作到很晚。"
+        ],
+        [
+          "A",
+          "No. When my commute started earlier, I moved demanding tasks to the beginning of the day instead of trying to fit them in after work.",
+          "不是。通勤提前后，我把费力任务移到早上，不再努力塞到下班之后。"
+        ],
+        [
+          "B",
+          "That sounds organized, but do you actually enjoy getting up so early?",
+          "听着很有条理，但你真喜欢那么早起吗？"
+        ],
+        [
+          "A",
+          "I enjoy the sense of control more than the early start itself. Sometimes I still miss waking up without an alarm.",
+          "比起早起本身，我更喜欢掌控感。有时仍怀念不用闹钟自然醒。"
+        ],
+        [
+          "B",
+          "I understand that distinction. I like knowing dinner is ready, but I do not always enjoy cooking it.",
+          "我明白这区别。我喜欢晚饭准备好了，但不总喜欢做饭。"
+        ],
+        [
+          "A",
+          "Exactly. A useful routine can have an uncomfortable part. What makes your own mornings easier?",
+          "对。有用的习惯也可能有不舒服的部分。什么让你的早晨更轻松？"
+        ],
+        [
+          "B",
+          "The grocery store downstairs. The owner remembers me and keeps the ingredients I use, so I can buy breakfast without planning every detail.",
+          "楼下杂货店。老板记得我，也备着我常用的食材，不用计划每个细节就能买早餐。"
+        ]
+      ],
+      [
+        [
+          "A",
+          "I would not call your area picturesque, but it feels welcoming. There is always someone saying hello at that shop.",
+          "我不会说你这里风景如画，但很亲切。那家店总有人打招呼。"
+        ],
+        [
+          "B",
+          "That everyday familiarity matters more to me than impressive buildings. When the owner closed for a week, I noticed how much I depended on it.",
+          "这种日常熟悉感比漂亮建筑更重要。老板停业一周时，我才发现多依赖它。"
+        ],
+        [
+          "A",
+          "What did you do instead?",
+          "你后来怎么办？"
+        ],
+        [
+          "B",
+          "I used the shop near the station, the one that stays open late and sells everyday essentials. It was convenient, but nobody knew me there.",
+          "我去了车站附近那家营业很晚、卖日用品的店。方便，但那里没人认识我。"
+        ]
+      ],
+      [
+        [
+          "A",
+          "Do you organize your weekends as carefully as your mornings?",
+          "你也像安排早晨那样仔细安排周末吗？"
+        ],
+        [
+          "B",
+          "Not entirely. I keep Saturday morning free, but book activities with friends early because several schedules are difficult to coordinate at short notice.",
+          "不完全。我留空周六上午，但提前约朋友，因为临时很难协调多人时间。"
+        ],
+        [
+          "A",
+          "Leaving last Sunday afternoon free let me help my sister move. I would have missed that if every hour had been booked.",
+          "上周日下午留空，让我能帮姐姐搬家。每小时都安排满，就没法去了。"
+        ],
+        [
+          "B",
+          "Then we both need some structure and some flexibility. Let's choose one thing for Saturday and leave the rest open.",
+          "那我们都需要一些安排，也需要灵活性。周六只定一件事，其他留空吧。"
+        ]
+      ]
+    ]
+  },
+  {
+    "week": 23,
+    "day": 2,
+    "question": "首次到花园的经历怎样改变了他的看法？",
+    "answer": "原以为志愿劳动是另一项义务，但修种植床时轻松聊天让他恢复精力。",
+    "rows": [
+      [
+        [
+          "A",
+          "This garden behind the old station used to be an unused parking lot. The neighbors started changing it two years ago.",
+          "旧车站后面的花园以前是闲置停车场，邻居们两年前开始改造。"
+        ],
+        [
+          "B",
+          "I noticed the blue barrels along the fence. Are those for collecting rainwater?",
+          "我注意到围栏旁的蓝桶，是收集雨水的吗？"
+        ],
+        [
+          "A",
+          "Yes, and every planting bed has a handwritten sign explaining what the volunteers are growing. It feels personal without looking perfectly organized.",
+          "对，每块种植床还有手写牌，说明志愿者种了什么。很有人情味，却不是完美整齐。"
+        ],
+        [
+          "B",
+          "How did you first get involved? I cannot picture you spending a whole afternoon gardening.",
+          "你最初怎么参与的？我想象不出你整下午做园艺。"
+        ],
+        [
+          "A",
+          "After a difficult week at work, a neighbor asked me to help repair the wooden edge of a planting bed. I almost declined.",
+          "工作辛苦的一周后，邻居邀我修种植床的木边，我差点拒绝。"
+        ],
+        [
+          "B",
+          "Because it felt like another obligation?",
+          "因为像又多了一项义务？"
+        ],
+        [
+          "A",
+          "Exactly. But we talked without rushing while we worked, and I left feeling restored rather than exhausted. That was not what I had expected.",
+          "对。但我们边做边不紧不慢地聊天，离开时恢复了精力而非疲惫。这完全出乎意料。"
+        ],
+        [
+          "B",
+          "Perhaps having a shared task made meeting people feel less formal than an organized social event.",
+          "也许共同做事，让认识别人不像正式社交活动那么拘谨。"
+        ]
+      ],
+      [
+        [
+          "A",
+          "That was part of it. People disagreed about what to plant, but still treated the space as something they were responsible for together.",
+          "确实有这个因素。大家对种什么有分歧，但仍觉得这个地方由他们共同负责。"
+        ],
+        [
+          "B",
+          "Would you say the garden transformed the whole neighborhood?",
+          "你会说花园改变了整个社区吗？"
+        ],
+        [
+          "A",
+          "That would go beyond what I have seen. It turned several strangers into familiar faces, and I now stop by most Sundays even without a task.",
+          "那超出了我见过的情况。它让一些陌生人成了熟面孔，我如今大多数周日没任务也会去。"
+        ],
+        [
+          "B",
+          "That smaller change still sounds meaningful. I might come with you, provided beginners are welcome.",
+          "较小的变化也很有意义。欢迎新手的话，我可能和你一起去。"
+        ]
+      ],
+      [
+        [
+          "A",
+          "They are. You could begin with watering, or just ask someone about the plants before deciding whether you want to help.",
+          "欢迎的。你可以先浇水，或者先问问植物，再决定要不要帮忙。"
+        ],
+        [
+          "B",
+          "It reminds me of the repair café near my old home. I went to fix a chair and kept returning because people remembered the project.",
+          "让我想起旧家附近的维修咖啡馆。我本想修椅子，后来因为大家记得那个项目，一直再去。"
+        ],
+        [
+          "A",
+          "Did the place matter mainly because of what you repaired, or because of the people you met there?",
+          "主要是修好的东西让它有意义，还是在那里认识的人？"
+        ],
+        [
+          "B",
+          "Both, but the people stayed in my memory longer. A practical reason to visit gradually became a reason to belong.",
+          "都有，但人留在记忆里更久。实际到访理由，逐渐变成了归属感的理由。"
+        ]
+      ]
+    ]
+  },
+  {
+    "week": 23,
+    "day": 3,
+    "question": "阿姨怎样教他处理台灯故障，这又影响了什么？",
+    "answer": "先描述问题，用精确问题引导他检验猜想；后来他在工作中也先定位问题再改流程。",
+    "rows": [
+      [
+        [
+          "A",
+          "My aunt repairs small household appliances in a workshop near her home. She taught me more about thinking than I expected from a broken lamp.",
+          "阿姨在家附近工作间修小型家电。一盏坏灯让我从她那里学到比预想更多的思考方法。"
+        ],
+        [
+          "B",
+          "What did she do that was different? Most people would just fix the lamp for you.",
+          "她哪里不同？多数人可能直接帮你修好灯。"
+        ],
+        [
+          "A",
+          "She asked me to describe the problem carefully before touching anything. I had already guessed that the whole lamp needed replacing.",
+          "她让我动手前仔细描述问题。我已经猜整盏灯都要换了。"
+        ],
+        [
+          "B",
+          "So she challenged the assumption before she checked the equipment.",
+          "所以她检查设备前先挑战了这个假设。"
+        ],
+        [
+          "A",
+          "Yes. She asked one precise question, waited for my answer, and then showed me how to test that particular guess instead of changing everything at once.",
+          "对。她每次问一个精确问题，等我回答，再示范如何检验那个猜想，而不是一次换掉所有东西。"
+        ],
+        [
+          "B",
+          "That sounds patient, but quite demanding. Did you ever feel she was making it unnecessarily slow?",
+          "听着耐心，也挺严格。你觉得她让事情变得过于慢吗？"
+        ],
+        [
+          "A",
+          "At first. Later I used the same method at work: isolate a problem before replacing an entire process that mostly works well.",
+          "起初觉得。后来我在工作也这样做：先定位问题，再考虑替换大部分仍正常的流程。"
+        ],
+        [
+          "B",
+          "Then her influence went beyond repair. You learned when to investigate instead of acting on the first explanation.",
+          "那她的影响超越了维修。你学会什么时候先调查，而不是听到第一个解释就行动。"
+        ]
+      ],
+      [
+        [
+          "A",
+          "She is not always easy to agree with, though. She can be stubborn about keeping equipment long after a repair seems worth the time.",
+          "不过她也不总容易说服。有时维修已不值得花时间，她仍固执地留着设备。"
+        ],
+        [
+          "B",
+          "Do you tell her when you think replacing something is more sensible?",
+          "你觉得更换更明智时，会告诉她吗？"
+        ],
+        [
+          "A",
+          "Yes, and she asks me to explain the cost rather than simply call it old. We disagree, but I now distinguish care from attachment more carefully.",
+          "会，她让我解释成本，不只是说旧。我们有分歧，但我更能区分珍惜和执念了。"
+        ],
+        [
+          "B",
+          "It sounds as if patience became an active skill for you, not just trying to hide frustration.",
+          "听起来耐心对你成了主动技能，不只是藏住沮丧。"
+        ]
+      ],
+      [
+        [
+          "A",
+          "That is a good way to put it. The lamp is still on my desk, but I remember the questions more clearly than the repair itself.",
+          "这样说很贴切。灯仍在桌上，但我记得问题比维修本身更清楚。"
+        ],
+        [
+          "B",
+          "My colleague had a similar influence on how I run meetings. She noticed quiet participants and invited them in without demanding an immediate answer.",
+          "同事对我开会方式有类似影响。她注意安静的人，邀请他们参与，却不要求马上回答。"
+        ],
+        [
+          "A",
+          "Did you start doing that yourself?",
+          "你后来也这样做吗？"
+        ],
+        [
+          "B",
+          "Yes, though I now ask some people privately before the meeting. The original lesson stayed useful, but I learned that the right invitation depends on the person.",
+          "会，不过现在对一些人我在会前私下询问。最初经验仍有用，但合适邀请方式取决于具体的人。"
+        ]
+      ]
+    ]
+  },
+  {
+    "week": 23,
+    "day": 4,
+    "question": "为什么事实知识与创造力不必二选一？",
+    "answer": "知识提供思考素材，创造性任务让学生重组素材；支持力度应根据经验调整。",
+    "rows": [
+      [
+        [
+          "A",
+          "Schools should develop independent thinking, but students still need enough knowledge to judge competing ideas. Removing guidance too early can leave them guessing.",
+          "学校应培养独立思考，但学生仍需足够知识判断不同观点。过早撤去指导可能让他们只能猜。"
+        ],
+        [
+          "B",
+          "Some parents worry that teaching facts leaves no space for creativity. Do you see those goals as competing?",
+          "有些家长担心教事实没有空间培养创造力。你觉得两者竞争吗？"
+        ],
+        [
+          "A",
+          "Not necessarily. Knowledge gives students material to work with, while creative tasks ask them to reorganize it rather than reproduce it in a familiar format.",
+          "不一定。知识提供素材，创造任务让学生重组素材，而不是照熟悉形式复述。"
+        ],
+        [
+          "B",
+          "What would that look like in a normal classroom?",
+          "在普通课堂会是什么样？"
+        ],
+        [
+          "A",
+          "In history, students could compare conflicting accounts of one event and use background knowledge to explain why the witnesses emphasized different details.",
+          "历史课可以比较同一事件的冲突叙述，用背景知识解释见证者为什么强调不同细节。"
+        ],
+        [
+          "B",
+          "Would you ask young children to handle that with the same independence?",
+          "你会让小孩子同样独立处理吗？"
+        ],
+        [
+          "A",
+          "No. They may need shorter sources and clearer questions. Experienced students can take more responsibility for deciding what deserves investigation.",
+          "不会。他们可能需要较短材料和清楚问题，经验更多的学生能更多负责判断值得调查什么。"
+        ],
+        [
+          "B",
+          "Then the aim stays the same, but the amount of support changes. That makes more sense than asking every class to work without help.",
+          "那目标相同，支持多少却会变化。这比让每个班都无帮助地学习更合理。"
+        ]
+      ],
+      [
+        [
+          "A",
+          "Parents also want evidence that learning is happening. Regular tests offer a useful snapshot, but the result should improve teaching rather than just rank children again.",
+          "家长也想知道学习确实在发生。定期测试提供有用快照，但结果应改善教学，不只又把孩子排名。"
+        ],
+        [
+          "B",
+          "Could longer projects show something tests miss?",
+          "长期项目能显示测试没看出的东西吗？"
+        ],
+        [
+          "A",
+          "Yes, with clear criteria. Otherwise a polished presentation might receive more credit than genuine understanding, and families with more resources could have an advantage.",
+          "能，但需要明确标准。不然精美呈现可能比真实理解更得分，资源多的家庭也可能占优势。"
+        ],
+        [
+          "B",
+          "So neither format is automatically better. The design needs to match the purpose without creating so much assessment work that teaching loses time.",
+          "所以两种形式都不自动更好。设计要符合目标，评估也不能多到挤掉教学时间。"
+        ]
+      ],
+      [
+        [
+          "A",
+          "Does the same principle apply when universities focus on getting students into jobs?",
+          "大学重视让学生就业时，同样原则适用吗？"
+        ],
+        [
+          "B",
+          "Partly. Relevant skills help graduates, but universities also support knowledge and public understanding that may not produce an immediate job offer.",
+          "部分适用。相关技能帮助毕业生，但大学也支持知识和公共理解，不一定立即带来工作。"
+        ],
+        [
+          "A",
+          "Then a course could prepare people for work while teaching them to question how that work affects society.",
+          "那课程可以让人准备就业，也教他们思考工作如何影响社会。"
+        ],
+        [
+          "B",
+          "Yes. We should ask which abilities endure when industries change, not only which software an employer wants this year.",
+          "对。应问哪些能力能在行业变化时持续有用，不只问雇主今年想要哪款软件。"
+        ]
+      ]
+    ]
+  },
+  {
+    "week": 23,
+    "day": 5,
+    "question": "为什么他拒绝晋升，又如何区分调查与拖延？",
+    "answer": "频繁出差不可持续；有用调查减少关键不确定性，单纯继续征求意见可能只是回避选择。",
+    "rows": [
+      [
+        [
+          "A",
+          "I turned down the promotion because it required constant travel. The extra salary was attractive, but I could not realistically sustain those responsibilities.",
+          "我拒绝晋升，因为要频繁出差。额外工资吸引人，但那些责任我实际上无法长期承担。"
+        ],
+        [
+          "B",
+          "Was that a quick instinct, or did you analyze the offer for a long time?",
+          "是瞬间直觉，还是分析了很久？"
+        ],
+        [
+          "A",
+          "Both. My first reaction reflected earlier trips that had exhausted me, but I still checked the actual travel schedule before deciding.",
+          "都有。最初反应来自之前让我疲惫的出差，但决定前我仍核对了实际日程。"
+        ],
+        [
+          "B",
+          "So trusting an immediate judgment is not always careless.",
+          "所以相信即时判断不总是草率。"
+        ],
+        [
+          "A",
+          "Right. It can reflect experience. In an unfamiliar situation, though, the same confidence might simply repeat an assumption I have never tested.",
+          "对，可能反映经验。但在陌生情况中，同样自信可能只是重复从没检验过的假设。"
+        ],
+        [
+          "B",
+          "I sometimes keep asking people for advice because I am afraid to choose. How do you know when investigation has become avoidance?",
+          "我有时怕选择而不停征求意见。怎么知道调查已变成回避？"
+        ],
+        [
+          "A",
+          "I ask what uncertainty the next conversation will reduce. If it cannot change anything important, another opinion may just postpone an uncomfortable decision.",
+          "我会问，下次谈话能减少什么不确定性。如果改变不了重要事情，再问一个人可能只是拖延难受的决定。"
+        ],
+        [
+          "B",
+          "That helps. Information is useful when it changes the choice, not merely when it makes me feel busy.",
+          "这有帮助。信息改变选择才有用，不是只让我觉得自己在忙。"
+        ]
+      ],
+      [
+        [
+          "A",
+          "Public decisions need stronger justification because they affect more people, but authorities also face deadlines. A reversible pilot can sometimes answer questions that debate cannot.",
+          "公共决定影响更多人，需要更充分依据，但政府也有期限。可逆试点有时能回答讨论回答不了的问题。"
+        ],
+        [
+          "B",
+          "Would you support experimenting with any policy, then?",
+          "那你支持拿任何政策做实验吗？"
+        ],
+        [
+          "A",
+          "No. Only where risks are acceptable, safeguards are credible, and participants' interests are considered. Some harms cannot be repaired by simply ending a trial.",
+          "不。只有风险可接受、保障可信、参与者利益被考虑时。有些伤害不是终止试点就能弥补。"
+        ],
+        [
+          "B",
+          "That is a useful limit. You can favor learning from action without treating everyone else's risk as a convenient experiment.",
+          "这限定很有用。可以支持在行动中学习，而不把别人的风险当方便实验。"
+        ]
+      ],
+      [
+        [
+          "A",
+          "Our city is redesigning the central street. Should experts or residents have more influence?",
+          "城市要改造中心街道，专家和居民谁应有更大影响？"
+        ],
+        [
+          "B",
+          "Experts can estimate consequences, while residents know daily use and local priorities. Neither alone decides which trade-offs the community should accept.",
+          "专家能估后果，居民了解日常使用和本地优先需求。两者都不能单独决定社区应接受哪些取舍。"
+        ],
+        [
+          "A",
+          "I would give technical evidence substantial weight, but leave the value choices open to public discussion.",
+          "我会重视技术证据，但把价值选择留给公众讨论。"
+        ],
+        [
+          "B",
+          "And ask officials to explain how both informed the decision. Expertise about consequences is different from authority to decide whose interests matter most.",
+          "也要求官员解释两者如何影响决定。了解后果的专业能力，不同于决定谁的利益最重要的权力。"
+        ]
+      ]
+    ]
+  },
+  {
+    "week": 24,
+    "day": 1,
+    "question": "2030年的数字与2010、2020年有何区别？",
+    "answer": "2030为预测：汽车40%、公交35%、自行车25%；前两年是已经记录的数据。",
+    "rows": [
+      [
+        [
+          "A",
+          "Our commuting report compares cars, buses, and bicycles in 2010 and 2020, then projects what their shares might be in 2030.",
+          "通勤报告对比了2010、2020年的汽车、公交和自行车，再预测2030年比例。"
+        ],
+        [
+          "B",
+          "What is the main change across those years?",
+          "这些年份最大的变化是什么？"
+        ],
+        [
+          "A",
+          "Cars accounted for sixty percent in 2010 and fifty percent in 2020. The projection for 2030 is forty percent, so their share is expected to keep falling.",
+          "2010年汽车占60%，2020年50%。2030预测为40%，所以预计继续下降。"
+        ],
+        [
+          "B",
+          "Expected, not already recorded. We should make that distinction clear before people repeat the future figure as a fact.",
+          "是预计，不是已经记录。应说清区别，免得人们把未来数字当事实转述。"
+        ],
+        [
+          "A",
+          "Bus use stayed at thirty percent in both observed years, while cycling doubled from ten to twenty percent.",
+          "两次实测公交都为30%，自行车从10%翻倍到20%。"
+        ],
+        [
+          "B",
+          "And the projection puts buses at thirty-five percent and bicycles at twenty-five percent. Cars would still be the largest single category, despite the decline.",
+          "预测公交为35%、自行车25%。汽车虽然下降，仍会是最大的单一类别。"
+        ],
+        [
+          "A",
+          "Would it be fair to say cycling became more popular?",
+          "说骑车变得更受欢迎公平吗？"
+        ],
+        [
+          "B",
+          "The recorded share increased, but we did not ask about attitudes. More cycling trips do not by themselves tell us why people chose them or how they felt.",
+          "记录的比例增加了，但没调查态度。更多骑行本身不能说明为什么选、感受如何。"
+        ]
+      ],
+      [
+        [
+          "A",
+          "I also nearly called the drop from sixty to fifty percent a ten-percent decrease.",
+          "我还差点把60%降到50%说成下降10%。"
+        ],
+        [
+          "B",
+          "It is ten percentage points. A ten-percent decrease from sixty would leave fifty-four, so the wording changes the arithmetic.",
+          "那是十个百分点。60%相对减少10%会剩54%，措辞会改变计算含义。"
+        ],
+        [
+          "A",
+          "Then our public update should compare the two recorded years first and put the forecast in a separate sentence.",
+          "那公开说明应先比较两个实测年份，把预测另放一句。"
+        ],
+        [
+          "B",
+          "Yes. That keeps the broad change visible without mixing what happened with what may happen.",
+          "对。既突出总体变化，也不混淆已发生和可能发生。"
+        ]
+      ],
+      [
+        [
+          "A",
+          "People will probably ask whether fuel prices caused the decline in driving.",
+          "人们可能会问，是不是油价造成开车减少。"
+        ],
+        [
+          "B",
+          "We can say the report does not establish a cause. Prices, routes, and working patterns are possibilities to investigate, not explanations already proven here.",
+          "可以说报告没有确定原因。油价、线路和工作方式都是待查的可能性，不是这里已证明的解释。"
+        ],
+        [
+          "A",
+          "We should also check whether these are shares of trips or shares of people before comparing them with another city's figures.",
+          "和其他城市比之前，也应确认这些是行程占比还是人数占比。"
+        ],
+        [
+          "B",
+          "Exactly. Similar-looking percentages can describe different things, and a comparison is only useful when the dates, units, and categories match.",
+          "对。看似相同的百分比可能描述不同事物，日期、单位和类别匹配时，比较才有用。"
+        ]
+      ]
+    ]
+  },
+  {
+    "week": 24,
+    "day": 2,
+    "question": "为什么不能根据Hill书桌少就断定它拥挤？",
+    "answer": "周访客数和书桌数不能显示同时使用人数；还需到访时长和高峰需求。",
+    "rows": [
+      [
+        [
+          "A",
+          "The branch report gives weekly visitors, weekly opening hours, and study desks. It covers one year, so it cannot show a change over time.",
+          "分馆报告列周访客、周开放时间和书桌数，只覆盖一年，不能显示随时间变化。"
+        ],
+        [
+          "B",
+          "Which branch is largest on those measures?",
+          "这些指标哪家最大？"
+        ],
+        [
+          "A",
+          "Central has fourteen hundred weekly visitors, sixty opening hours, and eighty desks. It is highest on all three, though that does not settle every question about service.",
+          "Central每周1400访客、开放60小时、80张书桌，三项都最高，但不能解决所有服务问题。"
+        ],
+        [
+          "B",
+          "Riverside has twelve hundred visitors, fifty hours, and sixty desks. Hill has nine hundred visitors, forty hours, and thirty desks.",
+          "Riverside有1200访客、50小时、60张书桌。Hill有900访客、40小时、30张书桌。"
+        ],
+        [
+          "A",
+          "Central has more than twice Hill's desks, but its visitor count is much less than twice as large. Hill seems to face greater pressure for seats.",
+          "Central书桌超过Hill两倍，访客却远不足两倍。Hill的座位压力看着更大。"
+        ],
+        [
+          "B",
+          "Possibly. But weekly visitors do not tell us how many people need a desk at the same time.",
+          "可能，但周访客看不出同一时间多少人要书桌。"
+        ],
+        [
+          "A",
+          "So calling Hill overcrowded would go beyond the information we have.",
+          "所以说Hill过于拥挤，会超出已有信息。"
+        ],
+        [
+          "B",
+          "Yes. We need visit duration and peak demand. Some visitors collect books and leave, while others occupy a desk for hours.",
+          "对，还需到访时长和高峰需求。有些人借书就走，有些占书桌数小时。"
+        ]
+      ],
+      [
+        [
+          "A",
+          "Would extending Hill's opening hours help before we buy more desks?",
+          "买更多书桌前，延长Hill开放时间会有帮助吗？"
+        ],
+        [
+          "B",
+          "It might spread demand, if the added hours match when people can visit. Extra hours that nobody can use would not address the busiest period.",
+          "如果新增时段符合人们能来时，可能分散需求。没人能用的额外时段解决不了高峰。"
+        ],
+        [
+          "A",
+          "Let's ask users about their preferred times and count occupied desks during busy afternoons.",
+          "问问使用者偏好时间，并在忙碌下午数已占用书桌吧。"
+        ],
+        [
+          "B",
+          "And keep the units clear in the report: sixty hours per week is different from sixty visitors per hour, even though the number is the same.",
+          "报告也要保持单位清楚：每周60小时与每小时60访客不同，即使数字相同。"
+        ]
+      ],
+      [
+        [
+          "A",
+          "A neighboring branch opens longer but has fewer visitors. Some council members say that proves it is inefficient.",
+          "旁边分馆开得更久、访客更少，有些议员说这证明它低效。"
+        ],
+        [
+          "B",
+          "Not without knowing the needs it meets. It may serve a smaller population or offer time-consuming help that a visitor count does not capture.",
+          "不知道满足哪些需求就不能这么说。它可能服务较少人口，或提供访客数无法体现的费时帮助。"
+        ],
+        [
+          "A",
+          "Then we should compare similar services and explain any exception to the broad ranking.",
+          "那应比较相似服务，并说明总体排名中值得注意的例外。"
+        ],
+        [
+          "B",
+          "Exactly. The table helps us decide what to investigate; it should not replace that investigation with labels such as efficient or poor.",
+          "对。表格帮助决定调查什么，不应用高效或差劲的标签代替调查。"
+        ]
+      ]
+    ]
+  },
+  {
+    "week": 24,
+    "day": 3,
+    "question": "这条回收流程中什么被分出，什么返回前面的阶段？",
+    "answer": "受污染材料被分出；回收的水返回制浆阶段，并非所有材料都形成闭环。",
+    "rows": [
+      [
+        [
+          "A",
+          "Does paper from the collection bins go straight into the machines here?",
+          "回收桶里的纸直接进这里的机器吗？"
+        ],
+        [
+          "B",
+          "It is sorted first. Contaminated items are removed, and the acceptable paper is brought to this facility. Rejected material does not automatically rejoin the same process.",
+          "先分类。受污染物被分出，合格纸送来这里。被拒材料不会自动回到同一流程。"
+        ],
+        [
+          "A",
+          "What happens after the sorting?",
+          "分类后做什么？"
+        ],
+        [
+          "B",
+          "The paper is mixed with water to make pulp. Screens remove larger unwanted pieces before the pulp goes through the ink-removal stage.",
+          "纸与水混合成纸浆，筛网去掉较大的杂物，然后去除油墨。"
+        ],
+        [
+          "A",
+          "How does the wet pulp become a sheet strong enough to use?",
+          "湿纸浆怎么变成足够结实能用的纸？"
+        ],
+        [
+          "B",
+          "The cleaned pulp is spread onto a moving mesh and pressed to remove water. Heated rollers then dry the sheet, which is wound into large rolls for manufacturing.",
+          "清洁纸浆铺到移动网面，压去水分。加热辊筒再烘干，纸被卷成供制造使用的大卷。"
+        ],
+        [
+          "A",
+          "I noticed a pipe leading back toward the pulping area. Is that the recovered water?",
+          "我注意到管道回到制浆区，那是回收的水吗？"
+        ],
+        [
+          "B",
+          "Yes, it returns to the pulping stage. That loop saves some water, but it does not mean every material entering the site is completely recycled.",
+          "对，水返回制浆阶段。这个循环节约部分水，但不代表进厂所有材料都完全回收。"
+        ]
+      ],
+      [
+        [
+          "A",
+          "Do you know the temperatures and chemicals used in every stage?",
+          "你知道每个阶段用的温度和化学品吗？"
+        ],
+        [
+          "B",
+          "Not exactly. The visitor information explains the sequence, but I would rather check the technical details than guess and give you the wrong figures.",
+          "不全知道。参观资料解释顺序，但技术细节我宁愿核查，不猜错数字告诉你。"
+        ],
+        [
+          "A",
+          "Would you call the whole process environmentally friendly?",
+          "你会说整个过程环保吗？"
+        ],
+        [
+          "B",
+          "It recovers useful material, but judging the wider impact also needs energy, water, and transport information. Knowing the sequence alone cannot answer that.",
+          "它回收有用材料，但判断整体影响还需能源、用水和运输信息。只知道顺序回答不了。"
+        ]
+      ],
+      [
+        [
+          "A",
+          "Our community garden collects rainwater, filters it, stores it, and uses it for irrigation. Is that a cycle too?",
+          "社区花园收集雨水、过滤、储存后浇灌，那也是循环吗？"
+        ],
+        [
+          "B",
+          "Only if something actually returns to an earlier stage in the system you are describing. Repeated collection is not automatically a closed loop.",
+          "得描述的系统里真有东西回到前一阶段。重复收集不自动是闭环。"
+        ],
+        [
+          "A",
+          "I see. Here I can trace accepted paper to the rolls, rejected material out of the process, and recovered water back to the beginning.",
+          "明白了。这里能追踪合格纸到纸卷，被拒材料离开流程，回收水返回前端。"
+        ],
+        [
+          "B",
+          "Exactly. Following each path separately makes it easier to see where the system reuses resources and where it still loses them.",
+          "对。分别追踪每条路径，更容易看出哪里重复利用资源、哪里仍有损耗。"
+        ]
+      ]
+    ]
+  },
+  {
+    "week": 24,
+    "day": 4,
+    "question": "收费和免费各有什么最强理由？",
+    "answer": "收费能支持稳定维护资金；免费可避免票价叠加交通费用，阻碍家庭反复参观。",
+    "rows": [
+      [
+        [
+          "A",
+          "The museum is considering an admission fee. I worry that culture will become harder to access, especially for families who visit regularly.",
+          "博物馆考虑收门票，我担心文化更难接触，尤其对经常参观的家庭。"
+        ],
+        [
+          "B",
+          "I worry too, but reliable ticket revenue can support conservation when public funding changes sharply from one year to the next.",
+          "我也担心，但公共资金年际变化大时，稳定门票收入能支持文物保护。"
+        ],
+        [
+          "A",
+          "Is unstable funding really affecting the collection, or just making it harder to organize new exhibitions?",
+          "资金不稳真影响藏品，还是只让新展览难办？"
+        ],
+        [
+          "B",
+          "Both can suffer. If the museum cannot plan maintenance, essential work may be postponed and preventable damage can build up even while the doors remain open.",
+          "两者都受影响。不能规划维护时，重要工作可能推迟，即使门还开着，可避免的损坏也会累积。"
+        ],
+        [
+          "A",
+          "That is a stronger reason than just saying museums need money. But even modest fees add up when families make repeated educational visits.",
+          "这比只说博物馆需要钱更有力。但家庭反复带孩子学习，即使小额费用也会累加。"
+        ],
+        [
+          "B",
+          "Especially when transport and other unavoidable costs are added. Free entry can remove one barrier, although it cannot pay the conservation bill by itself.",
+          "尤其还加上交通和其他无法避免费用。免费去掉一个障碍，但本身不能支付保护账单。"
+        ],
+        [
+          "A",
+          "Could permanent collections remain free while some special exhibitions charge, with public funding protecting essential maintenance?",
+          "能让常设展免费、部分特展收费，并用公共资金保障重要维护吗？"
+        ],
+        [
+          "B",
+          "That seems reasonable if the funding is genuinely secure. We should judge the arrangement by both access and preservation, not by whether it fits a simple slogan.",
+          "资金真落实的话合理。应同时用可及性和保存状况判断安排，不看它是否符合简单口号。"
+        ]
+      ],
+      [
+        [
+          "A",
+          "A small independent museum may not attract enough donors to make that work.",
+          "小型独立博物馆可能吸引不了足够捐赠者，让这种办法运作。"
+        ],
+        [
+          "B",
+          "Then a limited charge may be justified when there is no realistic alternative that keeps its core public function alive. That exception needs evidence, not just convenience.",
+          "如果没有能维持核心公共功能的现实替代，有限收费可能有理由。例外要有证据，不只为方便。"
+        ],
+        [
+          "A",
+          "Would discounted family passes and regular free days help preserve access?",
+          "家庭优惠票和定期免费日能帮助保留可及性吗？"
+        ],
+        [
+          "B",
+          "Yes, provided people can easily find and use them. A discount hidden behind a complicated application does little for the families we are discussing.",
+          "能，前提是容易找到、使用。藏在复杂申请后的优惠，帮不了我们说的那些家庭。"
+        ]
+      ],
+      [
+        [
+          "A",
+          "Before we support the plan, let's ask the museum to show what ticket revenue would actually fund.",
+          "支持计划前，让博物馆展示门票收入实际资助什么吧。"
+        ],
+        [
+          "B",
+          "And ask regular visitors what cost would change how often they come. We need the affected people's experience, not an invented example presented as research.",
+          "也问常客什么费用会改变到访频率。需要受影响者的体验，不把编的例子当研究。"
+        ],
+        [
+          "A",
+          "My position is still free basic access, with justified exceptions when conservation has no sustainable alternative.",
+          "我的立场仍是基本参观免费，保护工作没有可持续替代时，允许有依据的例外。"
+        ],
+        [
+          "B",
+          "Then we agree on the principle. The remaining work is checking whether this particular proposal meets those conditions.",
+          "那原则一致，剩下要检查这个具体方案是否满足条件。"
+        ]
+      ]
+    ]
+  },
+  {
+    "week": 24,
+    "day": 5,
+    "question": "不稳定工时怎样影响联系，社区能怎样回应？",
+    "answer": "使人难以持续参加活动；可提供多个时段和灵活参加，但不能单独改变工作条件。",
+    "rows": [
+      [
+        [
+          "A",
+          "Some residents say they feel isolated even though the neighborhood is crowded. Building another center sounds useful, but I am not sure it addresses the problem.",
+          "有些居民说人很多仍感孤立。再建中心听着有用，但我不确定能回应问题。"
+        ],
+        [
+          "B",
+          "What prevents meaningful contact here? Having people nearby is different from having time to develop a relationship.",
+          "这里什么阻碍有意义的联系？身边有人不同于有时间建立关系。"
+        ],
+        [
+          "A",
+          "Unpredictable working hours are one barrier. People miss recurring activities before familiar faces have time to become actual friends.",
+          "不稳定工时是一个障碍。熟面孔还来不及变朋友，人就错过反复进行的活动。"
+        ],
+        [
+          "B",
+          "Then more rooms alone would not fix it. Could the same activity run at several times, with flexible attendance?",
+          "那增加房间不能单独解决。能让相同活动在几个时段开展，允许灵活参加吗？"
+        ],
+        [
+          "A",
+          "Yes. That reduces the penalty for missing one session, though changing participants may make continuity harder.",
+          "能。错过一场的代价小些，不过参与者变化也会让连续性更难。"
+        ],
+        [
+          "B",
+          "And it cannot change the employment conditions causing the irregular hours. We should be clear about what community action can and cannot do.",
+          "也改变不了造成不规则工时的就业条件。应说清社区行动能做和做不到什么。"
+        ],
+        [
+          "A",
+          "Residential turnover is another issue. Neighbors sometimes move away before relationships develop beyond polite recognition.",
+          "居民流动也是问题。关系还没超出礼貌相识，邻居可能已搬走。"
+        ],
+        [
+          "B",
+          "Connecting newcomers with existing groups could help, as long as invitations are optional and we do not assume every person living alone wants organized social contact.",
+          "把新来者和现有团体连接可能有用，但邀请要自愿，不能假设独居者都想参加组织社交。"
+        ]
+      ],
+      [
+        [
+          "A",
+          "That distinction matters. Living alone describes a household arrangement; feeling isolated describes a social experience, and they do not always occur together.",
+          "这个区别很重要。独居是居住安排，孤立是社交体验，两者不总同时出现。"
+        ],
+        [
+          "B",
+          "Exactly. Some people enjoy solitude, while someone living with others may still feel unheard.",
+          "对，有些人享受独处，与人同住者也可能觉得没人听自己说话。"
+        ],
+        [
+          "A",
+          "Then our invitation should offer opportunities for connection rather than promise to eliminate loneliness.",
+          "那邀请应提供建立联系的机会，不承诺消除孤独。"
+        ],
+        [
+          "B",
+          "Yes. Ask which obstacle the activity removes, whom it reaches, and whether people can keep coming without pressure or unexpected costs.",
+          "对。问活动去掉什么障碍、触及谁、是否能无压力无意外费用地继续参加。"
+        ]
+      ],
+      [
+        [
+          "A",
+          "An older resident told me she would join the gardening group, but the bus home stops before the session ends.",
+          "一位老人说愿参加园艺小组，但活动结束前回家公交就停了。"
+        ],
+        [
+          "B",
+          "For her, transport is the specific barrier. An earlier session or help with the journey may achieve more than another general publicity campaign.",
+          "对她来说交通是具体障碍。提前活动或帮助出行，可能比再一次广泛宣传更有效。"
+        ],
+        [
+          "A",
+          "Let's try an earlier session and check whether attendance actually becomes easier, rather than assuming the change worked because we announced it.",
+          "试提前时段，并检查参加是否真更方便，不因宣布了改变就假设它有效。"
+        ],
+        [
+          "B",
+          "Good. Matching a practical response to a particular cause gives us something concrete to improve and evaluate.",
+          "好。让实际回应对应具体原因，才有具体东西可改善和评估。"
+        ]
+      ]
+    ]
+  },
+  {
+    "week": 25,
+    "day": 4,
+    "question": "最终哪天、何时、在哪里签到，实际学生名额是多少？",
+    "answer": "周五下午两点前在自行车架旁东入口签到；演示两点十五开始，名额18人。",
+    "rows": [
+      [
+        [
+          "A",
+          "The laboratory visit has moved from Thursday morning to Friday afternoon because of maintenance. The demonstration now starts at two fifteen.",
+          "实验室因维护，参观从周四上午改到周五下午。演示现在两点十五开始。"
+        ],
+        [
+          "B",
+          "I wrote down two thirty from the earlier email. Is two fifteen the arrival time or the start of the demonstration?",
+          "旧邮件我记了两点半。两点十五是到达时间还是演示开始？"
+        ],
+        [
+          "A",
+          "It is the start. Everyone should check in by two o'clock at the east entrance beside the bicycle racks, not the visitor center.",
+          "是开始时间。大家应两点前在自行车架旁东入口签到，不是在游客中心。"
+        ],
+        [
+          "B",
+          "I'll make the new entrance clear in the message. How many students can we bring?",
+          "我会在消息里写清新入口，可以带多少学生？"
+        ],
+        [
+          "A",
+          "Eighteen. The room can physically hold twenty-four, but the smaller group lets everyone see the equipment without crowding the workstations.",
+          "十八人。房间实际能容二十四，但小组让人人看清设备，不挤工作台。"
+        ],
+        [
+          "B",
+          "Does the booking include transport, or do students need to arrange their own journey?",
+          "预订含交通吗，还是学生自己安排？"
+        ],
+        [
+          "A",
+          "They travel independently. Reimbursement covers local bus fares only, so keep the receipts; taxis are excluded unless special arrangements were approved beforehand.",
+          "自行前往。报销只含本地公交，请留票据；出租车除非事先特批，否则不报。"
+        ],
+        [
+          "B",
+          "Then I'll send one final confirmation with the date, both times, entrance, actual limit, and reimbursement rules. That should prevent people combining the old and new plans.",
+          "那我发一条最终确认，列日期、两个时间、入口、实际名额和报销规则，免得大家把新旧计划混起来。"
+        ]
+      ],
+      [
+        [
+          "A",
+          "Thanks. A few classmates have already told others twenty-four places are available, so please correct that before we accept more bookings.",
+          "谢谢。有些同学已告诉别人有二十四个名额，请在接受更多预约前更正。"
+        ],
+        [
+          "B",
+          "I'll explain that twenty-four is the room capacity, while eighteen is the participant limit. Both numbers are real, but they describe different things.",
+          "我会解释，二十四是房间容量，十八是参与限额。两个数字都真实，却描述不同事物。"
+        ],
+        [
+          "A",
+          "The same applies to the times: two o'clock is the latest check-in, and two fifteen is when the equipment demonstration begins.",
+          "时间也一样：两点是最迟签到，两点十五是设备演示开始。"
+        ],
+        [
+          "B",
+          "I'll ask anyone sharing the notice to use the corrected version instead of adding another short message that leaves details unclear.",
+          "我会请转发的人用修正版，不再添一条细节不清楚的短消息。"
+        ]
+      ],
+      [
+        [
+          "A",
+          "Are you also coming to Saturday's workshop? Adult entry is twelve dollars, enrolled students pay eight, and equipment rental costs another three.",
+          "周六工作坊你也来吗？成人十二美元，在读学生八美元，设备租赁另收三美元。"
+        ],
+        [
+          "B",
+          "Then I would pay eleven dollars including equipment, if there are no other charges.",
+          "那含设备我付十一美元，前提是没其他费用。"
+        ],
+        [
+          "A",
+          "Correct. Bring proof of enrollment to receive the student price; the booking page lists the rental separately so people can see the total.",
+          "对。带在读证明才有学生价，预订页单列租赁，让大家看清总额。"
+        ],
+        [
+          "B",
+          "I'll check that before booking. It is easier to plan when each price and time has a clear purpose rather than appearing in one crowded message.",
+          "预订前我会核对。每个价格、时间用途清楚，比挤在一条混乱消息里更容易规划。"
+        ]
+      ]
+    ]
+  },
+  {
+    "week": 26,
+    "day": 5,
+    "question": "每餐浪费下降为何仍不能确定是小份政策造成的？",
+    "answer": "菜单与同期到访情况也改变，缺少排除这些影响的比较；数值显示下降但因果仍不确定。",
+    "rows": [
+      [
+        [
+          "A",
+          "The cafeteria's waste fell after smaller default portions were introduced, but students seem divided about whether the change suits their needs.",
+          "食堂默认小份后浪费下降，但学生对是否满足需求意见不同。"
+        ],
+        [
+          "B",
+          "The log shows daily waste of one hundred twenty kilograms in April, ninety in May, and seventy-two in June. We also need the number of meals served.",
+          "记录显示日均浪费四月120公斤、五月90、六月72。还需知道供餐数。"
+        ],
+        [
+          "A",
+          "Daily meals fell from six hundred to five hundred and then four hundred eighty. Some of the lower waste total could simply reflect fewer meals.",
+          "日均供餐从600份降到500，再到480。总浪费下降可能部分只是供餐少了。"
+        ],
+        [
+          "B",
+          "Per meal, that works out at two hundred grams in April, one hundred eighty in May, and one hundred fifty in June. So waste fell even after allowing for meal numbers.",
+          "折合每餐四月200克、五月180、六月150。因此计入供餐数后浪费仍下降。"
+        ],
+        [
+          "A",
+          "That still does not prove the portions caused it. The menu changed, and students' attendance shifted near the end of term during those same months.",
+          "这仍不证明份量造成下降。同期菜单变化，学期末学生到访情况也变了。"
+        ],
+        [
+          "B",
+          "Interviews add useful detail. Some liked throwing less away, while others wanted extra food without having to join the queue again.",
+          "访谈补充了有用细节。有人喜欢少扔食物，有人希望不用重排队就能加餐。"
+        ],
+        [
+          "A",
+          "Then I would keep the smaller default but add quick extra servings, with an arrangement that also works for different dietary requirements.",
+          "那我会保留默认小份，加上快速添餐，并让不同饮食需求的人也能方便使用。"
+        ],
+        [
+          "B",
+          "Agreed. We need both waste per meal and feedback about getting enough food. Reducing disposal is not a success if some students regularly leave hungry.",
+          "同意。既看每餐浪费，也看能否吃够的反馈。有人常饿着离开，减少丢弃就不算成功。"
+        ]
+      ],
+      [
+        [
+          "A",
+          "Could we keep the menu more consistent during the next month so the results are easier to interpret?",
+          "下个月能让菜单更稳定，方便理解结果吗？"
+        ],
+        [
+          "B",
+          "Yes, within reason. Also record changes in attendance and separate food left on plates from ingredients discarded in the kitchen, because the causes may differ.",
+          "合理范围内可以。也记录到访变化，把盘中剩餐和厨房丢弃食材分开，因为原因可能不同。"
+        ],
+        [
+          "A",
+          "The refill point should be easy to find. We could watch the queue and ask students whether the extra step causes a real inconvenience.",
+          "添餐点应容易找到。可以观察队列，问学生额外步骤是否真造成不便。"
+        ],
+        [
+          "B",
+          "And include people who need larger meals or specific food options, not just those already pleased with the change.",
+          "也包括饭量大或需要特定餐食的人，不只问已满意的人。"
+        ]
+      ],
+      [
+        [
+          "A",
+          "Some staff want to cut every portion again now. I would wait until we know that refills work and students are satisfied.",
+          "有员工想现在再缩小所有份量。我会等确认添餐有效、学生满意后再说。"
+        ],
+        [
+          "B",
+          "That is sensible. The figures support continuing carefully, not claiming that every part of the policy has already been proven.",
+          "合理。数字支持谨慎继续，不支持声称政策每部分都已被证明。"
+        ],
+        [
+          "A",
+          "Let's review another month of records and student feedback together, then explain which changes we will keep and which still need adjustment.",
+          "再一起看一个月记录和学生反馈，解释哪些改动保留、哪些仍需调整。"
+        ],
+        [
+          "B",
+          "Good. We can celebrate the measured improvement while staying honest about the cause and taking responsibility for the next version.",
+          "好。可以庆祝实测改善，同时如实说明原因的不确定性，并对下一版负责。"
+        ]
+      ]
+    ]
+  }
+]

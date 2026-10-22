@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1790887694605,
+      "tag": "0000_lively_sugar_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1791381454853,
+      "tag": "0001_dialogue_progress",
+      "breakpoints": true
+    }
+  ]
+}
